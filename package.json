@@ -1,7 +1,7 @@
 {
-  "name": "top-designers",
+  "name": "project-template-bootstrap4",
   "version": "0.0.0",
-  "description": "Страница дизайн-студии TOP DESIGNERS",
+  "description": "Шаблон для быстрого старта проекта",
   "main": "index.html",
   "scripts": {
     "mkdir": "mkdir -p dist/assets",
@@ -25,7 +25,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cherdantceva/top-designers.git"
+    "url": "git+https://github.com/cherdantceva/project-template-bootstrap4"
   },
   "homepage": "",
   "devDependencies": {
